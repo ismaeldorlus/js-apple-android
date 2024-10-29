@@ -1,0 +1,53 @@
+html {
+  background: #cabfb6;
+}
+
+body {
+  width: 600px;
+  padding: 50px 100px;
+  background: white;
+  margin: 0px auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+img {
+  width: 500px;
+}
+
+.center {
+  text-align: center;
+}
+
+a {
+  background: #c9793b;
+  color: black;
+  padding: 10px 15px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+h2 {
+  font-family: "Proza Libre", sans-serif;
+}
+
+.bottom {
+  margin-bottom: 50px;
+}
+
+button {
+  padding: 7px 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+#android {
+  background: #a4c93b;
+}
+
+#apple {
+  background: #b6bcca;
+}
+
+.redborder {
+  border: 2px solid red;
+}
